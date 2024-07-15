@@ -23,8 +23,8 @@ This project provides a solution to scrape Amazon product reviews, store them lo
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/youssef00mohamed/Amazon-Reviews-Scraper-with-API-Integration
+   cd Amazon-Reviews-Scraper-with-API-Integration
    ```
 
 2. **Install dependencies:**
